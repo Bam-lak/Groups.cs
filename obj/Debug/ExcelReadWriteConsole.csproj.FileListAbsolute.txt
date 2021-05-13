@@ -1,0 +1,7 @@
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\bin\Debug\ExcelReadWriteConsole.exe.config
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\bin\Debug\ExcelReadWriteConsole.exe
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\bin\Debug\ExcelReadWriteConsole.pdb
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\obj\Debug\ExcelReadWriteConsole.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\obj\Debug\ExcelReadWriteConsole.exe
+D:\Visual Studio 2015\Projects\ExcelReadWriteConsole\obj\Debug\ExcelReadWriteConsole.pdb
